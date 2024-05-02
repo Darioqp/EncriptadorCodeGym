@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06c8ac68-8eb2-4322-b10f-c52e9c9058c3" name="Changes" comment="Se agregaron los comentarios">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Darioqp&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="852f294d-a4dd-4ece-867a-a69a6edb5832" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Darioqp/encriptadorJavaCodeGym.git&quot;,
+    &quot;accountId&quot;: &quot;852f294d-a4dd-4ece-867a-a69a6edb5832&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2fgqfpFbhqd3ho3zHp4hYUjwMhU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="proyectoFinal1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06c8ac68-8eb2-4322-b10f-c52e9c9058c3" name="Changes" comment="" />
+      <created>1714233177934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714233177934</updated>
+    </task>
+    <task id="LOCAL-00001" summary="creacion de la clase Encriptador con sus metodos para encriptar char y String">
+      <option name="closed" value="true" />
+      <created>1714265225382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714265225382</updated>
+    </task>
+    <task id="LOCAL-00002" summary="creacion de la clase Encriptador con sus metodos para encriptar char y String">
+      <option name="closed" value="true" />
+      <created>1714265428658</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714265428658</updated>
+    </task>
+    <task id="LOCAL-00003" summary="se agrego el texto sin encriptar en el archivo texto_sin_encriptar.txt">
+      <option name="closed" value="true" />
+      <created>1714296416836</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714296416836</updated>
+    </task>
+    <task id="LOCAL-00004" summary="se agrego la logica para extraer el texto a encriptar desde un archivo">
+      <option name="closed" value="true" />
+      <created>1714350600588</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714350600588</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Se trabajo la logica de desencriptar el texto">
+      <option name="closed" value="true" />
+      <created>1714575788492</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714575788492</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Se trabajo la logica de desencriptar el texto">
+      <option name="closed" value="true" />
+      <created>1714589958853</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714589958853</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Se agregaron los comentarios">
+      <option name="closed" value="true" />
+      <created>1714681236973</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714681236974</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creacion de la clase Encriptador con sus metodos para encriptar char y String" />
+    <MESSAGE value="se agrego el texto sin encriptar en el archivo texto_sin_encriptar.txt" />
+    <MESSAGE value="se agrego la logica para extraer el texto a encriptar desde un archivo" />
+    <MESSAGE value="Se trabajo la logica del main para que aparezca el menu y las opciones del programa&#10;Se trabajo la logica del main y el menu con las opciones del usuario" />
+    <MESSAGE value="Se trabajo la logica del main para que aparezca el menu y las opciones del programa&#10;Se trabajo la logica del main y el menu con las opciones del usuario" />
+    <MESSAGE value="Se agregaron los comentarios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agregaron los comentarios" />
+  </component>
+</project>
